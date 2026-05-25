@@ -1,0 +1,15 @@
+{
+  "experimental": {
+    "multiZone": true
+  },
+  "experimentalServices": {
+    "frontend": {
+      "root": "frontend",
+      "routePrefix": "/"
+    },
+    "backend": {
+      "root": "backend",
+      "routePrefix": "/api"
+    }
+  }
+}
