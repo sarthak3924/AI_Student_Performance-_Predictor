@@ -1,7 +1,4 @@
 {
-  "experimental": {
-    "multiZone": true
-  },
   "experimentalServices": {
     "frontend": {
       "root": "frontend",
